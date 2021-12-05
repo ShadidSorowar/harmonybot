@@ -1,8 +1,8 @@
 ![Splash](https://repository-images.githubusercontent.com/236645319/1da444e8-04ad-48a7-aee2-325cb3c7f6a7)
 
-# Disc 11 by Zhycorp
+# Disc 11 by Shadid
 
-> A dedicated open-source Discord bot for Zhycorp based from [our Discord bot template](https://github.com/zhycorp/discord-bot-template) with more features. Easy to use, and with no coding required.
+> A dedicated open-source Discord bot for Shadid based from [our Discord bot template](https://github.com/zhycorp/discord-bot-template) with more features. Easy to use, and with no coding required.
 
 <a href="https://zhycorp.net/discord"><img src="https://img.shields.io/discord/332877090003091456?color=5865F2&logo=discord&logoColor=white" alt="Discord Server" /></a>
 <a href="https://discord.com/oauth2/authorize?client_id=690736793682968576&permissions=53857345&scope=bot"><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=Disc%2011%230606&plastic&color=5865F2&logo=discord"></a>
